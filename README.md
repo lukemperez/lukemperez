@@ -1,6 +1,6 @@
 ## Luke M. Perez
 
-Welcome to my Github profile. I am your friendly neighborhood grand strategist. I study strategic decision-making from the ancient world through the end of the Cold War. If that sound broad, it is. I draw on public opinion research, archival work, and political theory. Narrowly, I study the strategic leadership of the United States and, unsurprisingly, endeavor to contribute to continued global leadership in the decades to come. I make no apologies for siding with Lincoln that America is [the last best hope of earth](https://www.nps.gov/liho/learn/historyculture/onamerica.htm). 
+Welcome to my Github profile. I am your friendly neighborhood grand strategist. I study strategic decision-making from the ancient world through the end of the Cold War. If that sounds broad, it is. I draw on public opinion research, archival work, and political theory. Narrowly, I study the strategic leadership of the United States and, unsurprisingly, endeavor to contribute to continued global leadership in the decades to come. I make no apologies for siding with Lincoln that America is [the last best hope of earth](https://www.nps.gov/liho/learn/historyculture/onamerica.htm). 
 
 To that end, I am spending a lot of time thinking and learning about Machine Intelligence, i.e., AI. (I think "machine intelligence" is a better moniker because there is nothing artificial about what AI is, what it does, its limits, and its risks.)
 
@@ -13,7 +13,7 @@ Previously, I've been affiliated with several great universities:
 ### Projects: 2026—
 
 1. I'm finishing a manuscript showing how Cold War grand strategy played a critical role in the origin and development of international religious freedom.
-2. AI Safety. As of this writing (October 2026), I am enrolled in [Blue Dot Impact](https://bluedot.org)'s [AGI Strategy Intensive Course](https://bluedot.org/courses/agi-strategy) scheduled for October 12--16.
+2. AI Safety. As of this writing (October 2026), I completed [Blue Dot Impact](https://bluedot.org)'s [AGI Strategy Intensive Course](https://bluedot.org/courses/agi-strategy).
 
 ### Older Projects
 
